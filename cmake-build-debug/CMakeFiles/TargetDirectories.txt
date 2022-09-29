@@ -1,0 +1,4 @@
+/mnt/d/ClionProject/C++/MyCppTetris/cmake-build-debug/CMakeFiles/MyCppTetris-main.dir
+/mnt/d/ClionProject/C++/MyCppTetris/cmake-build-debug/CMakeFiles/MyCppTetris.dir
+/mnt/d/ClionProject/C++/MyCppTetris/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/ClionProject/C++/MyCppTetris/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -lcurses -g CMakeFiles/MyCppTetris-main.dir/MyCppTetris-main.cpp.o -o MyCppTetris-main  -lcurses 
